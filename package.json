@@ -1,0 +1,19 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "4.0.2",
+    "gulp-sass": "4.1.0",
+    "gulp-util": "3.0.8",
+    "postcss": "7.0.30",
+    "postcss-rtl": "^1.7.3",
+    "@justeat/fozzie": "1.38.0"
+  }
+}
