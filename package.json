@@ -13,7 +13,7 @@
     "gulp-sass": "4.1.0",
     "gulp-util": "3.0.8",
     "postcss": "7.0.30",
-    "postcss-rtl": "^1.7.3",
+    "postcss-rtl": "^2.0.0",
     "@justeat/fozzie": "1.38.0"
   }
 }
